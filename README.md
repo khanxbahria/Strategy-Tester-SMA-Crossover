@@ -21,6 +21,6 @@ Maximum 10.527194143813379
 Mean 0.4946017857853304
 Median -0.5077724434231157
 ```
-[](Figure_1.png)  
-[](Figure_2.png)  
-[](Figure_3.png)  
+![](Figure_1.png)  
+![](Figure_2.png)  
+![](Figure_3.png)  
